@@ -11,7 +11,7 @@ import re
 import uuid
 from dateutil import parser
 import datetime
-import os
+# import os
 
 
 # In[4]:
@@ -134,7 +134,7 @@ def process():
 
     return Response(
         "\n".join(icsLines),
-        mimetype="text/csv",
+        mimetype="text/calendar",
         headers={"Content-disposition":
                  "attachment; filename=export.ics"})
 
