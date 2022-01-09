@@ -7,7 +7,7 @@ with open('oscar_text.txt') as f:
     lines = f.readlines()
 
 # %%
-lines=[line.replace("\n","").replace("E-mail","") for line in lines] #.replace("\t","")
+lines=[line.replace("\n","").replace("\r","").replace("E-mail","") for line in lines] #.replace("\t","")
 
 while(lines[0]==""):
     lines.pop(0)
