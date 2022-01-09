@@ -9,6 +9,9 @@ with open('oscar_text.txt') as f:
 # %%
 lines=[line.replace("\n","").replace("E-mail","") for line in lines] #.replace("\t","")
 
+while(lines[0]==""):
+    lines.pop(0)
+
 # %%
 courses=lines[0::13]
 terms=[line.replace("\t"," ") for line in lines[1::13]]
