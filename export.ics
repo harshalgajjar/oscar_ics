@@ -2,66 +2,102 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:harshalgajjar.com
 BEGIN:VEVENT
-SUMMARY:Simulation in Transport - CEE 6632 - A
-UID:9da63fbe-716d-11ec-84aa-acde48001122
-LOCATION:Whitaker 1103
-DTSTART;TZID=America/New_York:20220111T140000
-DTEND;TZID=America/New_York:20220111T151500
-RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU,TH
-DESCRIPTION:Associated Term - Spring 2022, CRN - 31324, Status - Registered Web on Nov 12 2021, Assigned Instructor - Jorge A Laval, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+SUMMARY:Sci Foundation of Health - APPH 1040 - B
+UID:8e21a8a4-7324-11ec-aa7d-acde48001122
+LOCATION:Howey Physics L1
+DTSTART;TZID=America/New_York:20220110T140000
+DTEND;TZID=America/New_York:20220110T145000
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=MO,WE
+DESCRIPTION:Associated Term - Spring 2022, CRN - 26448, Status - Registered Web on Nov 10 2021, Assigned Instructor - Michele L Rosbruck, Grade Mode - Letter Grade, Credits - 2000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Comp Aesthetics - CS 6497 - A
-UID:9da65a1c-716d-11ec-84aa-acde48001122
-LOCATION:Scheller College of Business 200
-DTSTART;TZID=America/New_York:20220111T153000
-DTEND;TZID=America/New_York:20220111T164500
-RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU,TH
-DESCRIPTION:Associated Term - Spring 2022, CRN - 33419, Status - Registered Web on Nov 12 2021, Assigned Instructor - Jaroslaw R Rossignac, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+SUMMARY:Heritage Chinese II - CHIN 2501 - UA
+UID:8e21be3e-7324-11ec-aa7d-acde48001122
+LOCATION:TBA
+DTSTART;TZID=America/New_York:20220110T153000
+DTEND;TZID=America/New_York:20220110T164500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=MO,WE
+DESCRIPTION:Associated Term - Spring 2022, CRN - 29142, Status - Wait Listed Course on Jan 06 2022, Assigned Instructor - Yi-Hsien Ho, Grade Mode - Letter Grade, Credits - 0000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Behavioral Imaging - CS 7626 - A
-UID:9da66bc4-716d-11ec-84aa-acde48001122
-LOCATION:Van Leer E283
+SUMMARY:Data Struct & Algorithms - CS 1332 - C
+UID:8e21cbae-7324-11ec-aa7d-acde48001122
+LOCATION:Clough UG Learning Commons 144
 DTSTART;TZID=America/New_York:20220110T153000
 DTEND;TZID=America/New_York:20220110T162000
 RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=MO,WE,FR
-DESCRIPTION:Associated Term - Spring 2022, CRN - 30793, Status - Registered Web on Nov 12 2021, Assigned Instructor - James M Rehg, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+DESCRIPTION:Associated Term - Spring 2022, CRN - 28692, Status - Registered Web on Nov 10 2021, Assigned Instructor - Mark B Moss, Grade Mode - Letter Grade, Credits - 3000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Machine Learning - CS 7641 - A
-UID:9da67d62-716d-11ec-84aa-acde48001122
-LOCATION:Howey Physics L1
-DTSTART;TZID=America/New_York:20220111T123000
-DTEND;TZID=America/New_York:20220111T134500
+SUMMARY:CS 1332 Recitation - CS 1332R - C04
+UID:8e21d9a0-7324-11ec-aa7d-acde48001122
+LOCATION:Molecular Sciences and Engr 1222
+DTSTART;TZID=America/New_York:20220111T183000
+DTEND;TZID=America/New_York:20220111T194500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU
+DESCRIPTION:Associated Term - Spring 2022, CRN - 28760, Status - Registered Web on Nov 10 2021, Assigned Instructor - Mark B Moss, Grade Mode - Audit, Credits - 0000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro Discrete Math CS - CS 2050 - A
+UID:8e21e742-7324-11ec-aa7d-acde48001122
+LOCATION:College of Computing 16
+DTSTART;TZID=America/New_York:20220111T140000
+DTEND;TZID=America/New_York:20220111T151500
 RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU,TH
-DESCRIPTION:Associated Term - Spring 2022, CRN - 24057, Status - Registered Web on Nov 12 2021, Assigned Instructor - Mohammad Mahdi Roozbahani, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+DESCRIPTION:Associated Term - Spring 2022, CRN - 23545, Status - Registered Web on Nov 10 2021, Assigned Instructor - Ronnie G Howard, Grade Mode - Letter Grade, Credits - 3000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Web Search & Text Mining - CSE 6240 - A
-UID:9da68ece-716d-11ec-84aa-acde48001122
-LOCATION:Scheller College of Business 200
-DTSTART;TZID=America/New_York:20220111T170000
-DTEND;TZID=America/New_York:20220111T181500
-RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU,TH
-DESCRIPTION:Associated Term - Spring 2022, CRN - 30831, Status - Registered Web on Nov 12 2021, Assigned Instructor - Srijan Kumar, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Topics in Cog & Brain Sc - PSYC 6040 - A
-UID:9da6a076-716d-11ec-84aa-acde48001122
-LOCATION:J. S. Coon 250
-DTSTART;TZID=America/New_York:20220112T123000
-DTEND;TZID=America/New_York:20220112T132000
+SUMMARY:CS 2050 Recitation - CS 2050R - A04
+UID:8e21f52a-7324-11ec-aa7d-acde48001122
+LOCATION:Ford Environmental Sci & Tech L1205
+DTSTART;TZID=America/New_York:20220112T183000
+DTEND;TZID=America/New_York:20220112T194500
 RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=WE
-DESCRIPTION:Associated Term - Spring 2022, CRN - 23302, Status - Registered Web on Nov 12 2021, Assigned Instructor - Dobromir Rahnev, Grade Mode - Letter Grade, Credits - 1000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+DESCRIPTION:Associated Term - Spring 2022, CRN - 28488, Status - Registered Web on Nov 10 2021, Assigned Instructor - Ronnie G Howard, Grade Mode - Audit, Credits - 0000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seminar Cog & Brain - PSYC 8080 - A
-UID:9da6b156-716d-11ec-84aa-acde48001122
-LOCATION:J. S. Coon 148
-DTSTART;TZID=America/New_York:20220110T140000
-DTEND;TZID=America/New_York:20220110T151500
+SUMMARY:Intro to Linguistics - LING 2100 - UA
+UID:8e220236-7324-11ec-aa7d-acde48001122
+LOCATION:TBA
+DTSTART;TZID=America/New_York:20220110T123000
+DTEND;TZID=America/New_York:20220110T134500
 RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=MO,WE
-DESCRIPTION:Associated Term - Spring 2022, CRN - 27447, Status - Registered Web on Nov 12 2021, Assigned Instructor - Mark E Wheeler, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+DESCRIPTION:Associated Term - Spring 2022, CRN - 31761, Status - Wait Listed Course on Jan 06 2022, Assigned Instructor - Hongchen Wu, Grade Mode - Letter Grade, Credits - 0000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro Physics I - PHYS 2211 - K
+UID:8e2227fc-7324-11ec-aa7d-acde48001122
+LOCATION:Clough UG Learning Commons 144
+DTSTART;TZID=America/New_York:20220110T183000
+DTEND;TZID=America/New_York:20220110T194500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=MO
+DESCRIPTION:Associated Term - Spring 2022, CRN - 32643, Status - Registered Web on Jan 06 2022, Assigned Instructor - Emily Alicea-Munoz, Grade Mode - Letter Grade, Credits - 4000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro Physics I - PHYS 2211 - K
+UID:8e223684-7324-11ec-aa7d-acde48001122
+LOCATION:Howey Physics L1
+DTSTART;TZID=America/New_York:20220111T093000
+DTEND;TZID=America/New_York:20220111T104500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU,TH
+DESCRIPTION:Associated Term - Spring 2022, CRN - 32643, Status - Registered Web on Jan 06 2022, Assigned Instructor - Emily Alicea-Munoz, Grade Mode - Letter Grade, Credits - 4000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro Physics I - PHYS 2211 - W05
+UID:8e22444e-7324-11ec-aa7d-acde48001122
+LOCATION:Clough UG Learning Commons 362
+DTSTART;TZID=America/New_York:20220111T153000
+DTEND;TZID=America/New_York:20220111T181500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU
+DESCRIPTION:Associated Term - Spring 2022, CRN - 21951, Status - Registered Web on Nov 10 2021, Assigned Instructor - Emily Alicea-Munoz, Grade Mode - Letter Grade, Credits - 0000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Psychology - PSYC 1101 - E
+UID:8e2251a0-7324-11ec-aa7d-acde48001122
+LOCATION:Weber SST III 2
+DTSTART;TZID=America/New_York:20220110T110000
+DTEND;TZID=America/New_York:20220110T121500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=MO,WE
+DESCRIPTION:Associated Term - Spring 2022, CRN - 25956, Status - Registered Web on Nov 22 2021, Assigned Instructor - Christopher M Stanzione, Grade Mode - Letter Grade, Credits - 3000, Level - Undergraduate Semester, Campus - Georgia Tech-Atlanta
 END:VEVENT
 END:VCALENDAR

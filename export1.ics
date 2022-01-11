@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:harshalgajjar.com
+BEGIN:VEVENT
+SUMMARY:Simulation in Transport - CEE 6632 - A
+UID:9da63fbe-716d-11ec-84aa-acde48001122
+LOCATION:Whitaker 1103
+DTSTART;TZID=America/New_York:20220111T140000
+DTEND;TZID=America/New_York:20220111T151500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU,TH
+DESCRIPTION:Associated Term - Spring 2022, CRN - 31324, Status - Registered Web on Nov 12 2021, Assigned Instructor - Jorge A Laval, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comp Aesthetics - CS 6497 - A
+UID:9da65a1c-716d-11ec-84aa-acde48001122
+LOCATION:Scheller College of Business 200
+DTSTART;TZID=America/New_York:20220111T153000
+DTEND;TZID=America/New_York:20220111T164500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU,TH
+DESCRIPTION:Associated Term - Spring 2022, CRN - 33419, Status - Registered Web on Nov 12 2021, Assigned Instructor - Jaroslaw R Rossignac, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Behavioral Imaging - CS 7626 - A
+UID:9da66bc4-716d-11ec-84aa-acde48001122
+LOCATION:Van Leer E283
+DTSTART;TZID=America/New_York:20220110T153000
+DTEND;TZID=America/New_York:20220110T162000
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=MO,WE,FR
+DESCRIPTION:Associated Term - Spring 2022, CRN - 30793, Status - Registered Web on Nov 12 2021, Assigned Instructor - James M Rehg, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - CS 7641 - A
+UID:9da67d62-716d-11ec-84aa-acde48001122
+LOCATION:Howey Physics L1
+DTSTART;TZID=America/New_York:20220111T123000
+DTEND;TZID=America/New_York:20220111T134500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU,TH
+DESCRIPTION:Associated Term - Spring 2022, CRN - 24057, Status - Registered Web on Nov 12 2021, Assigned Instructor - Mohammad Mahdi Roozbahani, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Web Search & Text Mining - CSE 6240 - A
+UID:9da68ece-716d-11ec-84aa-acde48001122
+LOCATION:Scheller College of Business 200
+DTSTART;TZID=America/New_York:20220111T170000
+DTEND;TZID=America/New_York:20220111T181500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=TU,TH
+DESCRIPTION:Associated Term - Spring 2022, CRN - 30831, Status - Registered Web on Nov 12 2021, Assigned Instructor - Srijan Kumar, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topics in Cog & Brain Sc - PSYC 6040 - A
+UID:9da6a076-716d-11ec-84aa-acde48001122
+LOCATION:J. S. Coon 250
+DTSTART;TZID=America/New_York:20220112T123000
+DTEND;TZID=America/New_York:20220112T132000
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=WE
+DESCRIPTION:Associated Term - Spring 2022, CRN - 23302, Status - Registered Web on Nov 12 2021, Assigned Instructor - Dobromir Rahnev, Grade Mode - Letter Grade, Credits - 1000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seminar Cog & Brain - PSYC 8080 - A
+UID:9da6b156-716d-11ec-84aa-acde48001122
+LOCATION:J. S. Coon 148
+DTSTART;TZID=America/New_York:20220110T140000
+DTEND;TZID=America/New_York:20220110T151500
+RRULE:FREQ=WEEKLY;UNTIL=20220505T000000;BYDAY=MO,WE
+DESCRIPTION:Associated Term - Spring 2022, CRN - 27447, Status - Registered Web on Nov 12 2021, Assigned Instructor - Mark E Wheeler, Grade Mode - Letter Grade, Credits - 3000, Level - Graduate Semester, Campus - Georgia Tech-Atlanta 
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,90 @@
+Simulation in Transport - CEE 6632 - A
+Associated Term:	Spring 2022
+CRN:	31324
+Status:	**Registered (Web) on Nov 12, 2021
+Assigned Instructor:	Jorge A. LavalE-mail
+Grade Mode:	Letter Grade
+Credits:	3.000
+Level:	Graduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	2:00 pm - 3:15 pm	TR	Whitaker 1103	Jan 10, 2022 - May 05, 2022	Lecture*	Jorge Andres Laval (P)E-mail
+
+Comp Aesthetics - CS 6497 - A
+Associated Term:	Spring 2022
+CRN:	33419
+Status:	**Registered (Web) on Nov 12, 2021
+Assigned Instructor:	Jaroslaw R. RossignacE-mail
+Grade Mode:	Letter Grade
+Credits:	3.000
+Level:	Graduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	3:30 pm - 4:45 pm	TR	Scheller College of Business 200	Jan 10, 2022 - May 05, 2022	Lecture*	Jaroslaw R Rossignac (P)E-mail
+
+Behavioral Imaging - CS 7626 - A
+Associated Term:	Spring 2022
+CRN:	30793
+Status:	**Registered (Web) on Nov 12, 2021
+Assigned Instructor:	James M. RehgE-mail
+Grade Mode:	Letter Grade
+Credits:	3.000
+Level:	Graduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	3:30 pm - 4:20 pm	MWF	Van Leer E283	Jan 10, 2022 - May 05, 2022	Lecture*	James Matthew Rehg (P)E-mail
+
+Machine Learning - CS 7641 - A
+Associated Term:	Spring 2022
+CRN:	24057
+Status:	**Registered (Web) on Nov 12, 2021
+Assigned Instructor:	Mohammad Mahdi RoozbahaniE-mail
+Grade Mode:	Letter Grade
+Credits:	3.000
+Level:	Graduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	12:30 pm - 1:45 pm	TR	Howey Physics L1	Jan 10, 2022 - May 05, 2022	Lecture*	Mohammad Mahdi Roozbahani (P)E-mail
+
+Web Search & Text Mining - CSE 6240 - A
+Associated Term:	Spring 2022
+CRN:	30831
+Status:	**Registered (Web) on Nov 12, 2021
+Assigned Instructor:	Srijan KumarE-mail
+Grade Mode:	Letter Grade
+Credits:	3.000
+Level:	Graduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	5:00 pm - 6:15 pm	TR	Scheller College of Business 200	Jan 10, 2022 - May 05, 2022	Lecture*	Srijan Kumar (P)E-mail
+
+Topics in Cog & Brain Sc - PSYC 6040 - A
+Associated Term:	Spring 2022
+CRN:	23302
+Status:	**Registered (Web) on Nov 12, 2021
+Assigned Instructor:	Dobromir RahnevE-mail
+Grade Mode:	Letter Grade
+Credits:	1.000
+Level:	Graduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	12:30 pm - 1:20 pm	W	J. S. Coon 250	Jan 10, 2022 - May 05, 2022	Lecture*	Dobromir Rahnev (P)E-mail
+
+Seminar Cog & Brain - PSYC 8080 - A
+Associated Term:	Spring 2022
+CRN:	27447
+Status:	**Registered (Web) on Nov 12, 2021
+Assigned Instructor:	Mark E. WheelerE-mail
+Grade Mode:	Letter Grade
+Credits:	3.000
+Level:	Graduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	2:00 pm - 3:15 pm	MW	J. S. Coon 148	Jan 10, 2022 - May 05, 2022	Lecture*	Mark Edward Wheeler (P)E-mail

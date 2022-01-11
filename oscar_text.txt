@@ -1,91 +1,134 @@
-
-Simulation in Transport - CEE 6632 - A
+Sci Foundation of Health - APPH 1040 - B
 Associated Term:	Spring 2022
-CRN:	31324
-Status:	**Registered (Web) on Nov 12, 2021
-Assigned Instructor:	Jorge A. LavalE-mail
+CRN:	26448
+Status:	**Registered (Web) on Nov 10, 2021
+Assigned Instructor:	Michele L. RosbruckE-mail
+Grade Mode:	Letter Grade
+Credits:	2.000
+Level:	Undergraduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	2:00 pm - 2:50 pm	MW	Howey Physics L1	Jan 10, 2022 - May 05, 2022	Lecture*	Michele Lee Rosbruck (P)E-mail
+
+Heritage Chinese II - CHIN 2501 - UA
+Associated Term:	Spring 2022
+CRN:	29142
+Status:	Wait Listed Course on Jan 06, 2022
+Waitlist Position:	5
+Notification Expires:	 
+Assigned Instructor:	Yi-Hsien HoE-mail
+Grade Mode:	Letter Grade
+Credits:	0.000
+Level:	Undergraduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	3:30 pm - 4:45 pm	MW	TBA	Jan 10, 2022 - May 05, 2022	Lecture*	Yi-Hsien Ho (P)E-mail
+
+Data Struct & Algorithms - CS 1332 - C
+Associated Term:	Spring 2022
+CRN:	28692
+Status:	**Registered (Web) on Nov 10, 2021
+Assigned Instructor:	Mark B. MossE-mail
 Grade Mode:	Letter Grade
 Credits:	3.000
-Level:	Graduate Semester
+Level:	Undergraduate Semester
 Campus:	Georgia Tech-Atlanta *
 Scheduled Meeting Times
 Type	Time	Days	Where	Date Range	Schedule Type	Instructors
-Class	2:00 pm - 3:15 pm	TR	Whitaker 1103	Jan 10, 2022 - May 05, 2022	Lecture*	Jorge Andres Laval (P)E-mail
+Class	3:30 pm - 4:20 pm	MWF	Clough UG Learning Commons 144	Jan 10, 2022 - May 05, 2022	Lecture*	Mark Bomi Moss (P)E-mail
 
-Comp Aesthetics - CS 6497 - A
+CS 1332 Recitation - CS 1332R - C04
 Associated Term:	Spring 2022
-CRN:	33419
-Status:	**Registered (Web) on Nov 12, 2021
-Assigned Instructor:	Jaroslaw R. RossignacE-mail
+CRN:	28760
+Status:	**Registered (Web) on Nov 10, 2021
+Assigned Instructor:	Mark B. MossE-mail
+Grade Mode:	Audit
+Credits:	0.000
+Level:	Undergraduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	6:30 pm - 7:45 pm	T	Molecular Sciences and Engr 1222	Jan 10, 2022 - May 05, 2022	Recitation*	Mark Bomi Moss (P)E-mail
+
+Intro Discrete Math CS - CS 2050 - A
+Associated Term:	Spring 2022
+CRN:	23545
+Status:	**Registered (Web) on Nov 10, 2021
+Assigned Instructor:	Ronnie G. HowardE-mail
 Grade Mode:	Letter Grade
 Credits:	3.000
-Level:	Graduate Semester
+Level:	Undergraduate Semester
 Campus:	Georgia Tech-Atlanta *
 Scheduled Meeting Times
 Type	Time	Days	Where	Date Range	Schedule Type	Instructors
-Class	3:30 pm - 4:45 pm	TR	Scheller College of Business 200	Jan 10, 2022 - May 05, 2022	Lecture*	Jaroslaw R Rossignac (P)E-mail
+Class	2:00 pm - 3:15 pm	TR	College of Computing 16	Jan 10, 2022 - May 05, 2022	Lecture*	Ronnie G Howard (P)E-mail
 
-Behavioral Imaging - CS 7626 - A
+CS 2050 Recitation - CS 2050R - A04
 Associated Term:	Spring 2022
-CRN:	30793
-Status:	**Registered (Web) on Nov 12, 2021
-Assigned Instructor:	James M. RehgE-mail
+CRN:	28488
+Status:	**Registered (Web) on Nov 10, 2021
+Assigned Instructor:	Ronnie G. HowardE-mail
+Grade Mode:	Audit
+Credits:	0.000
+Level:	Undergraduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	6:30 pm - 7:45 pm	W	Ford Environmental Sci & Tech L1205	Jan 10, 2022 - May 05, 2022	Recitation*	Ronnie G Howard (P)E-mail
+
+Intro to Linguistics - LING 2100 - UA
+Associated Term:	Spring 2022
+CRN:	31761
+Status:	Wait Listed Course on Jan 06, 2022
+Waitlist Position:	10
+Notification Expires:	 
+Assigned Instructor:	Hongchen WuE-mail
+Grade Mode:	Letter Grade
+Credits:	0.000
+Level:	Undergraduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	12:30 pm - 1:45 pm	MW	TBA	Jan 10, 2022 - May 05, 2022	Lecture*	Hongchen Wu (P)E-mail
+
+Intro Physics I - PHYS 2211 - K
+Associated Term:	Spring 2022
+CRN:	32643
+Status:	**Registered (Web) on Jan 06, 2022
+Assigned Instructor:	Emily Alicea-MunozE-mail
+Grade Mode:	Letter Grade
+Credits:	4.000
+Level:	Undergraduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	6:30 pm - 7:45 pm	M	Clough UG Learning Commons 144	Jan 10, 2022 - May 05, 2022	Common Exam*	Emily Alicea-Munoz (P)E-mail
+Class	9:30 am - 10:45 am	TR	Howey Physics L1	Jan 10, 2022 - May 05, 2022	Lecture*	Emily Alicea-Munoz (P)E-mail
+
+Intro Physics I - PHYS 2211 - W05
+Associated Term:	Spring 2022
+CRN:	21951
+Status:	**Registered (Web) on Nov 10, 2021
+Assigned Instructor:	Emily Alicea-MunozE-mail
+Grade Mode:	Letter Grade
+Credits:	0.000
+Level:	Undergraduate Semester
+Campus:	Georgia Tech-Atlanta *
+Scheduled Meeting Times
+Type	Time	Days	Where	Date Range	Schedule Type	Instructors
+Class	3:30 pm - 6:15 pm	T	Clough UG Learning Commons 362	Jan 10, 2022 - May 05, 2022	Supervised Laboratory*	Emily Alicea-Munoz (P)E-mail
+
+General Psychology - PSYC 1101 - E
+Associated Term:	Spring 2022
+CRN:	25956
+Status:	**Registered (Web) on Nov 22, 2021
+Assigned Instructor:	Christopher M. StanzioneE-mail
 Grade Mode:	Letter Grade
 Credits:	3.000
-Level:	Graduate Semester
+Level:	Undergraduate Semester
 Campus:	Georgia Tech-Atlanta *
 Scheduled Meeting Times
 Type	Time	Days	Where	Date Range	Schedule Type	Instructors
-Class	3:30 pm - 4:20 pm	MWF	Van Leer E283	Jan 10, 2022 - May 05, 2022	Lecture*	James Matthew Rehg (P)E-mail
-
-Machine Learning - CS 7641 - A
-Associated Term:	Spring 2022
-CRN:	24057
-Status:	**Registered (Web) on Nov 12, 2021
-Assigned Instructor:	Mohammad Mahdi RoozbahaniE-mail
-Grade Mode:	Letter Grade
-Credits:	3.000
-Level:	Graduate Semester
-Campus:	Georgia Tech-Atlanta *
-Scheduled Meeting Times
-Type	Time	Days	Where	Date Range	Schedule Type	Instructors
-Class	12:30 pm - 1:45 pm	TR	Howey Physics L1	Jan 10, 2022 - May 05, 2022	Lecture*	Mohammad Mahdi Roozbahani (P)E-mail
-
-Web Search & Text Mining - CSE 6240 - A
-Associated Term:	Spring 2022
-CRN:	30831
-Status:	**Registered (Web) on Nov 12, 2021
-Assigned Instructor:	Srijan KumarE-mail
-Grade Mode:	Letter Grade
-Credits:	3.000
-Level:	Graduate Semester
-Campus:	Georgia Tech-Atlanta *
-Scheduled Meeting Times
-Type	Time	Days	Where	Date Range	Schedule Type	Instructors
-Class	5:00 pm - 6:15 pm	TR	Scheller College of Business 200	Jan 10, 2022 - May 05, 2022	Lecture*	Srijan Kumar (P)E-mail
-
-Topics in Cog & Brain Sc - PSYC 6040 - A
-Associated Term:	Spring 2022
-CRN:	23302
-Status:	**Registered (Web) on Nov 12, 2021
-Assigned Instructor:	Dobromir RahnevE-mail
-Grade Mode:	Letter Grade
-Credits:	1.000
-Level:	Graduate Semester
-Campus:	Georgia Tech-Atlanta *
-Scheduled Meeting Times
-Type	Time	Days	Where	Date Range	Schedule Type	Instructors
-Class	12:30 pm - 1:20 pm	W	J. S. Coon 250	Jan 10, 2022 - May 05, 2022	Lecture*	Dobromir Rahnev (P)E-mail
-
-Seminar Cog & Brain - PSYC 8080 - A
-Associated Term:	Spring 2022
-CRN:	27447
-Status:	**Registered (Web) on Nov 12, 2021
-Assigned Instructor:	Mark E. WheelerE-mail
-Grade Mode:	Letter Grade
-Credits:	3.000
-Level:	Graduate Semester
-Campus:	Georgia Tech-Atlanta *
-Scheduled Meeting Times
-Type	Time	Days	Where	Date Range	Schedule Type	Instructors
-Class	2:00 pm - 3:15 pm	MW	J. S. Coon 148	Jan 10, 2022 - May 05, 2022	Lecture*	Mark Edward Wheeler (P)E-mail
+Class	11:00 am - 12:15 pm	MW	Weber SST III 2	Jan 10, 2022 - May 05, 2022	Lecture*	Christopher M Stanzione (P)E-mail
