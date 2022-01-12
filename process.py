@@ -15,7 +15,7 @@ while(raw_lines[0]==""):
     raw_lines.pop(0)
 
 while(raw_lines[-1]==""):
-    raw_lines.pop(0)
+    raw_lines.pop(-1)
 
 for line in raw_lines:
     if(("Waitlist Position" not in line) and ("Notification Expires" not in line)):
