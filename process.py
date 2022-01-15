@@ -99,6 +99,9 @@ for i in range(len(coursesInfo.keys())):
 
         values = coursesInfo[courseName]["Meetings"][j].split("\t")
 
+        if(len(values[1].split("-"))<2):
+            continue
+
         firstStart=values[1].split("-")[0].strip()+" "+values[4].split("-")[0].strip()
         firstEnd=values[1].split("-")[1].strip()+" "+values[4].split("-")[0].strip()
 
